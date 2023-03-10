@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698089341068",
+    "project_id": "pad-anya-anime-wallpaper-hd-4k",
+    "storage_bucket": "pad-anya-anime-wallpaper-hd-4k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698089341068:android:e8f185e7204f0a2738bba9",
+        "android_client_info": {
+          "package_name": "com.putriayu.wallpaper.hd4k.anya.anime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698089341068-03lkuv2t7tnf2nnsuctghp2ba0n01cis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSPfsPiME66ihzHZVyCIQFOdkTo7V4CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698089341068-03lkuv2t7tnf2nnsuctghp2ba0n01cis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
