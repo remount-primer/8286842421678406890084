@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269959921607",
+    "project_id": "pad-water-drop-wallpaper-hd-4k",
+    "storage_bucket": "pad-water-drop-wallpaper-hd-4k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269959921607:android:40498ca317f67a795ea3e2",
+        "android_client_info": {
+          "package_name": "com.putriayu.wallpaper.hd4k.water.drop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269959921607-rllnhqoa73lm5rfcq3b6j1i6uc0ftdct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLoDm10eO89A0wTI9Bt7oBkfR1G2otIXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269959921607-rllnhqoa73lm5rfcq3b6j1i6uc0ftdct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
